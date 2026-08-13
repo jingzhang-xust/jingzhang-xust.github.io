@@ -493,3 +493,22 @@ h2::after {
 
 }
 
+.menu-sticky {
+  scrollbar-width: thin;
+  scrollbar-color: #c8d4df transparent;
+}
+
+.menu-sticky::-webkit-scrollbar {
+  width: 5px;
+}
+
+.menu-sticky::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.menu-sticky::-webkit-scrollbar-thumb {
+  background: #c8d4df;
+  border-radius: 10px;
+}
+
+
