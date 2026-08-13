@@ -5,7 +5,7 @@ import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parent
-PAGES = ["index.jemdoc", "publications.jemdoc", "projects.jemdoc", "biography.jemdoc"]
+PAGES = ["index.jemdoc", "publications.jemdoc", "biography.jemdoc"]
 
 CANDIDATES = [
     ROOT / "vendor" / "jemdoc_mathjax" / "jemdoc",
