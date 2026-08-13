@@ -2,22 +2,89 @@
 
 = Publications
 
+For an up-to-date bibliography, see my [https://dblp.org/pid/05/3499-57.html DBLP] and [https://orcid.org/0000-0003-2494-8077 ORCID] profiles.
+
 == Journal Papers
 
-- *Jing Zhang*, Yuqi Chen, Yao Zhang, Ruonan Xu, Bin Guo, "DWHA-PCMSP: Salient Object Detection Network in Coal Mine Industrial IoT", /IEEE Transactions on Industrial Informatics/, vol. 21, no. 7, pp. 5746--5754, 2025.
+=== 2026
 
-- *Jing Zhang*, Bing Li, Yao Zhang, Yuguang Xu, Hong-an Li, "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer", /The Journal of Supercomputing/, vol. 81, no. 1, pp. 221--242, 2025.
+- *Jing Zhang*, Xingyue Li, Bing Li, Yuguang Xu, Jing Su, "CEA-RPCMLP-HGNN: Point-of-Interest Recommendation Method for City Tourism Crowd", /IEEE Internet of Things Journal/, vol. 13, no. 9, pp. 19006--19017, 2026.
+
+- *Jing Zhang*, Ke Huang, Yao Zhang, Bin Guo, Zhiwen Yu, "Detecting Fake Reviewer Groups in Dynamic Networks: An Adaptive Graph Learning Method", /IEEE Transactions on Knowledge and Data Engineering/, vol. 38, no. 5, pp. 2687--2702, 2026.
+
+- *Jing Zhang*, Qihao Teng, Hong-an Li, Lei Wang, "Enhanced Teeth Recognition and Segmentation via Multi-Scale Fusion Attention and Residual Dense Partial Convolution", /IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences/, vol. 109, no. 3, pp. 734--742, 2026.
+
+
+=== 2025
+
+- Zhenhua Chen, Siying Fan, Hao Jin, *Jing Zhang*, Zhen Li, Jing Su, "An Asymmetric Searchable Encryption Scheme Supporting Shortest Distance Query in Internet of Vehicles", /IEEE Internet of Things Journal/, vol. 12, no. 13, pp. 25867--25878, 2025.
+
+- *Jing Zhang*, Yuqi Chen, Yao Zhang, Bin Guo, Ruonan Xu, "DWHA-PCMSP: Salient Object Detection Network in Coal Mine Industrial IoT", /IEEE Transactions on Industrial Informatics/, vol. 21, no. 7, pp. 5746--5754, 2025.
+
+- *Jing Zhang*, Hao Zhou, Kunyu Liu, Yuguang Xu, "ED-Swin Transformer: A Cassava Disease Classification Model Integrated with UAV Images", /Sensors/, vol. 25, no. 8, 2432, 2025.
+
+- *Jing Zhang*, Bing Li, Yao Zhang, Yuguang Xu, Hongan Li, "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer", /The Journal of Supercomputing/, vol. 81, article 221, 2025.
+
+
+=== 2024
 
 - *Jing Zhang*, Lei Han, Bin Guo, "Sparse Mobile Crowdsensing for Gas Monitoring in Coal Mine Working Face", /IEEE Internet of Things Journal/, vol. 11, no. 22, pp. 36633--36645, 2024.
 
 - *Jing Zhang*, Ke Huang, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li, "Research on Multifeature Fusion False Review Detection Based on DynDistilBERT-BiLSTM-CNN", /IEEE Internet of Things Journal/, vol. 11, no. 18, pp. 30040--30053, 2024.
 
+- Hong-an Li, Liuqing Hu, Jun Liu, *Jing Zhang*, Tian Ma, "A Review of Advances in Image Inpainting Research", /The Imaging Science Journal/, vol. 72, no. 5, pp. 669--691, 2024.
+
+
+=== 2023
+
+- *Jing Zhang*, Ting Fan, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li, "Intelligent Crowd Sensing Pickpocketing Group Identification Using Remote Sensing Data for Secure Smart Cities", /Mathematical Biosciences and Engineering/, vol. 20, no. 8, pp. 13777--13797, 2023.
+
+- *Jing Zhang*, Qianqian Wang, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li, "Research on User Recruitment Algorithms Based on User Trajectory Prediction with Sparse Mobile Crowd Sensing", /Mathematical Biosciences and Engineering/, vol. 20, no. 7, pp. 11998--12023, 2023.
+
 - *Jing Zhang*, Qichen Yan, Xiaogang Zhu, Keping Yu, "Smart Industrial IoT Empowered Crowd Sensing for Safety Monitoring in Coal Mine", /Digital Communications and Networks/, vol. 9, no. 2, pp. 296--305, 2023.
 
-- *Jing Zhang*, Ting Fan, Ding Lang, Yuguang Xu, Hong-an Li, "Intelligent Crowd Sensing Pickpocketing Group Identification Using Remote Sensing Data for Secure Smart Cities", /Mathematical Biosciences and Engineering/, vol. 20, no. 8, pp. 13777--13797, 2023.
+- Hong-an Li, Liuqing Hu, *Jing Zhang*, "Irregular Mask Image Inpainting Based on Progressive Generative Adversarial Networks", /The Imaging Science Journal/, vol. 71, no. 3, pp. 299--312, 2023.
 
-- *Jing Zhang*, Qianqian Wang, Ding Lang, Yuguang Xu, Hong-an Li, "Research on User Recruitment Algorithms Based on User Trajectory Prediction with Sparse Mobile Crowd Sensing", /Mathematical Biosciences and Engineering/, vol. 20, no. 7, pp. 11998--12023, 2023.
+- *Jing Zhang*, Dan Li, Hong-an Li, Xuewen Li, Lizhi Zhang, "A Night Image Enhancement Algorithm Based on MDIFE-Net Curve Estimation", /IEICE Transactions on Information and Systems/, vol. 106, no. 2, pp. 229--239, 2023.
 
-- *Jing Zhang*, Xin Qi, Sanhlaing Myint, Zheng Wen, "Deep-Learning-Empowered 3D Reconstruction for Dehazed Images in IoT-Enhanced Smart Cities", /Computers, Materials & Continua/, vol. 68, no. 2, pp. 2807--2824, 2021.
+- Hong-an Li, Diao Wang, *Jing Zhang*, Zhanli Li, Tian Ma, "Image Super-Resolution Reconstruction Based on Multi-Scale Dual-Attention", /Connection Science/, vol. 35, no. 1, article 2182487, 2023.
 
-- *Jing Zhang*, Keping Yu, Zheng Wen, Xin Qi, Anupkumar Paul, "3D Reconstruction for Motion Blurred Images Using Deep Learning-Based Intelligent Systems", /Computers, Materials & Continua/, vol. 66, no. 2, pp. 2087--2104, 2021.
+- Hong-an Li, Min Zhang, Dufeng Chen, *Jing Zhang*, Meng Yang, Zhanli Li, "Image Color Rendering Based on Hinge-Cross-Entropy GAN in Internet of Medical Things", /Computer Modeling in Engineering & Sciences/, vol. 135, no. 1, pp. 779--794, 2023.
+
+
+=== 2022
+
+- Weiguo Zhang, Jiaqi Lu, *Jing Zhang*, Xuewen Li, Qi Zhao, "Research on the Algorithm of License Plate Recognition Based on MPGAN Haze Weather", /IEICE Transactions on Information and Systems/, vol. 105-D, no. 5, pp. 1085--1093, 2022.
+
+
+=== 2021
+
+- *Jing Zhang*, Xin Qi, San Hlaing Myint, Zheng Wen, "Deep-Learning-Empowered 3D Reconstruction for Dehazed Images in IoT-Enhanced Smart Cities", /Computers, Materials & Continua/, vol. 68, no. 2, pp. 2807--2824, 2021.
+
+- Hong-An Li, Jiangwen Fan, *Jing Zhang*, Zhanli Li, Dandan He, Ming Si, Yun Zhang, "Facial Image Segmentation Based on Gabor Filter", /Mathematical Problems in Engineering/, vol. 2021, article 6620742, 2021.
+
+- *Jing Zhang*, Dan Li, Qiaozhi Hua, Xin Qi, Zheng Wen, San Hlaing Myint, "3D Remote Healthcare for Noisy CT Images in the Internet of Things Using Edge Computing", /IEEE Access/, vol. 9, pp. 15170--15180, 2021.
+
+- *Jing Zhang*, Keping Yu, Zheng Wen, Xin Qi, Anup Kumar Paul, "3D Reconstruction for Motion Blurred Images Using Deep Learning-Based Intelligent Systems", /Computers, Materials & Continua/, vol. 66, no. 2, pp. 2087--2104, 2021.
+
+- Yu Sun, Zhanli Li, Xuewen Li, *Jing Zhang*, "Classifier Selection and Ensemble Model for Multi-class Imbalance Learning in Education Grants Prediction", /Applied Artificial Intelligence/, vol. 35, no. 4, pp. 290--303, 2021.
+
+- Xinglin Shang, Liang Tan, Keping Yu, *Jing Zhang*, Kuljeet Kaur, Mohammad Mehedi Hassan, "Newton-Interpolation-Based zk-SNARK for Artificial Internet of Things", /Ad Hoc Networks/, vol. 123, 102656, 2021.
+
+
+=== 2020
+
+- *Jing Zhang*, Ling-Rui Gong, Keping Yu, Xin Qi, Zheng Wen, Qiaozhi Hua, San Hlaing Myint, "3D Reconstruction for Super-Resolution CT Images in the Internet of Health Things Using Deep Learning", /IEEE Access/, vol. 8, pp. 121513--121525, 2020.
+
+- *Jing Zhang*, Guo Qiang, Han Fang, Li Zhan-Li, Li Hong-An, Sun Yu, "A Novel 3D Reconstruction Algorithm of Motion-Blurred CT Image", /Computational and Mathematical Methods in Medicine/, vol. 2020, article 9324689, 2020.
+
+
+=== 2019
+
+- Hong-An Li, Min Zhang, Keping Yu, *Jing Zhang*, Qiaozhi Hua, Bo Wu, Xin Qi, Zhenhua Yu, "Combined Forecasting Model of Cloud Computing Resource Load for Energy-Efficient IoT System", /IEEE Access/, vol. 7, pp. 149542--149553, 2019.
+
+- Hong-An Li, Zhuo-Ming Du, *Jing Zhang*, Zhanli Li, "A Retrieval Method of Medical 3D Models Based on Sparse Representation", /Journal of Medical Imaging and Health Informatics/, vol. 9, no. 9, pp. 1988--1992, 2019.
+
+- *Jing Zhang*, Shouxu Zhang, Xiaoxuan Chen, Bo Jiang, Lin Wang, Yanyan Li, Hong-An Li, "A Novel Medical 3D Reconstruction Based on 3D Scale-Invariant Feature Transform Descriptor and Quaternion-Iterative Closest Point Algorithm", /Journal of Medical Imaging and Health Informatics/, vol. 9, no. 7, pp. 1361--1372, 2019.
+
+- *Jing Zhang*, Li Zhan-Li, Li Hong-An, "A Novel Sketch-Based Medical 3D Model Retrieval Approach by Multi-Scale Weighted Gabor Feature Fusion and IP-HOG Feature Extraction", /Journal of Medical Imaging and Health Informatics/, vol. 9, no. 4, pp. 788--800, 2019.
