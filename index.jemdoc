@@ -3,7 +3,7 @@
 = Jing Zhang
 
 ~~~
-{}{img_left}{assets/profile.jpg}{Jing Zhang}{180px}{}{}
+{}{img_left}{assets/profile.jpg}{Jing Zhang}{175px}{}{}
 
 *Associate Professor*
 
@@ -14,69 +14,26 @@ Xi'an University of Science and Technology
 
 *Email:* zhangjing21@xust.edu.cn
 
-[https://github.com/jingzhang-xust GitHub] [https://jsjxy.xust.edu.cn/info/1103/1960.htm Faculty Profile]
+[https://orcid.org/0000-0003-2494-8077 ORCID]
+[https://dblp.org/pid/05/3499-57.html DBLP]
+[https://github.com/jingzhang-xust GitHub]
+[https://jsjxy.xust.edu.cn/info/1103/1960.htm Faculty Profile]
 ~~~
 
-== About Me
-
-I am currently an Associate Professor at the School of Artificial Intelligence and Computer Science, Xi'an University of Science and Technology (XUST).
-
-I received my Ph.D. degree in Computer Application Technology from Northwest University in 2018. I joined Xi'an University of Science and Technology in the same year and was promoted to Associate Professor in 2023.
-
-My research interests include IoT sensing, artificial intelligence, crowd computing, and intelligent sensing, with applications to industrial IoT and coal-mine safety.
+Welcome! I am an Associate Professor at the School of Artificial Intelligence and Computer Science, Xi'an University of Science and Technology (XUST). I received my Ph.D. degree in Computer Application Technology from Northwest University in 2018. My research focuses on IoT sensing, artificial intelligence, crowd computing, and intelligent sensing, with applications to Industrial IoT and coal-mine safety.
 
 == Research Interests
 
-- *IoT Sensing* — sparse sensing, mobile crowdsensing, and intelligent perception
-- *Artificial Intelligence* — deep learning and intelligent data analytics
-- *Crowd Computing* — human-centered sensing and collaborative intelligence
-- *Industrial Intelligence* — intelligent sensing for Industrial IoT and coal-mine safety
+- *IoT Sensing and Mobile Crowdsensing*
+- *Artificial Intelligence and Intelligent Perception*
+- *Industrial IoT and Coal-Mine Safety Monitoring*
 
-== Research
+== Recent Publications
 
-I have led or participated in more than ten government-funded research projects, including projects supported by the National Natural Science Foundation of China, the China Postdoctoral Science Foundation, the Department of Science and Technology of Shaanxi Province, and the Education Department of Shaanxi Province.
+- *Jing Zhang*, Ke Huang, Yao Zhang, Bin Guo, Zhiwen Yu, "Detecting Fake Reviewer Groups in Dynamic Networks: An Adaptive Graph Learning Method", /IEEE Transactions on Knowledge and Data Engineering/, vol. 38, no. 5, pp. 2687--2702, 2026.
 
-I have also participated in more than ten industry-funded research projects related to coal mines and research institutes.
+- *Jing Zhang*, Xingyue Li, Bing Li, Yuguang Xu, Jing Su, "CEA-RPCMLP-HGNN: Point-of-Interest Recommendation Method for City Tourism Crowd", /IEEE Internet of Things Journal/, vol. 13, no. 9, pp. 19006--19017, 2026.
 
-== Publications
+- *Jing Zhang*, Yuqi Chen, Yao Zhang, Bin Guo, Ruonan Xu, "DWHA-PCMSP: Salient Object Detection Network in Coal Mine Industrial IoT", /IEEE Transactions on Industrial Informatics/, vol. 21, no. 7, pp. 5746--5754, 2025.
 
-I have published more than 30 SCI-indexed papers in international journals, including /IEEE Transactions on Industrial Informatics/ and /IEEE Internet of Things Journal/. Two of these papers have been recognized as ESI Highly Cited Papers.
-
-My research has also resulted in six accepted or granted invention patents.
-
-[publications.html Publications]
-
-== Awards
-
-- *2024* — Second Prize of Science and Technology, China National Coal Association, for research on major coal-mine disaster risk monitoring, early warning, and collaborative safety management.
-- *2023* — Third Prize of Science and Technology of Shaanxi Higher Education Institutions, for research on data-driven automatic image rendering based on deep neural networks.
-
-== Academic Service
-
-- Executive Committee Member, CCF Technical Committee on Internet of Things
-- Executive Committee Member, CCF Technical Committee on Pervasive Computing
-
-== Teaching
-
-=== Undergraduate Courses
-
-- Principles of Big Data Technology
-- Linux Operating Systems
-- Digital Image Processing
-- Computer Graphics
-- C Programming
-
-=== Graduate Courses
-
-- Software Testing
-- Scientific Computing Visualization
-
-== Contact
-
-Email: zhangjing21@xust.edu.cn
-
-School of Computer Science and Technology  
-Xi'an University of Science and Technology  
-Xi'an, Shaanxi, China
-
-[https://jsjxy.xust.edu.cn/info/1103/1960.htm Official Faculty Profile]
+[publications.html Full Publication List]
