@@ -2,30 +2,66 @@
 
 = Biography
 
-== Education
+== Professional Profile
 
-- *20XX--Present* — M.S. / Ph.D. in XXX, School of XXX, XXX University. Advisor: Prof. XXX.
-- *20XX--20XX* — B.Eng. / B.Sc. in XXX, XXX University.
+*Jing Zhang* is currently an Associate Professor at Xi'an University of Science and Technology.
 
-== Research Experience
+She received her Ph.D. degree in Computer Application Technology from Northwest University.
 
-- *20XX--Present* — Research Assistant, XXX Lab, XXX University. Briefly describe your research topic and responsibilities.
-- *20XX--20XX* — Research Intern, XXX Lab / Company. Briefly describe what you worked on.
+Her research focuses on IoT sensing and intelligent systems, with particular interests in mobile crowdsensing, artificial intelligence, intelligent sensing, and their applications to coal-mine safety and industrial IoT.
 
-== Awards and Honors
+== Research Interests
 
-- *2026* — Scholarship / Competition Award / Outstanding Student Award.
-- *2025* — Scholarship / Competition Award.
+- Internet of Things and Intelligent Systems
+- Mobile Crowdsensing
+- Artificial Intelligence
+- Intelligent Sensing
+- Industrial IoT
+- Coal-Mine Safety Monitoring
 
-== Academic Service
+== Teaching
 
-- Reviewer / volunteer / student organizer information, if applicable.
-- Remove this section if it does not yet apply to you.
+=== Undergraduate Courses
 
-== Skills
+- Principles of Big Data Technology
+- Linux Operating Systems
+- Digital Image Processing
+- Computer Graphics
+- C Programming
 
-- Programming: Python, C/C++, MATLAB, etc.
-- Frameworks: PyTorch, TensorFlow, ROS, etc.
-- Languages: Chinese (native), English (working proficiency), etc.
+=== Graduate Courses
 
-# TODO: Keep this page factual. Do not include sensitive personal information such as ID numbers, home address, or private phone number.
+- Software Testing
+- Scientific Computing Visualization
+
+== Awards
+
+- *2024* — Second Prize of the China Coal Industry Science and Technology Award, for the project "Coal-Mine Major Disaster Risk Monitoring, Early Warning and Collaborative Safety Production Management System."
+
+- *2023* — Third Prize of the Science and Technology Award of Shaanxi Higher Education Institutions, for the project "Research on Data-Driven Automatic Image Rendering Based on Deep Neural Networks."
+
+== Patents
+
+- *Zhang Jing*, Qiu Xingguo, Li Hong-an, Sun Yu.
+  "Online Monitoring Method and System for Water Quality in Coal-Mine Working Faces Based on Deep Learning."
+  Chinese invention patent, ZL 2023 1 1442469.6.
+
+- *Zhang Jing*, Li Xuewen, Li Hong-an, Sun Yu.
+  "Coal-Mine Safety Collaborative Prediction Method and System Based on Human-Machine-Environment Crowd Sensing."
+  Chinese invention patent application, No. 202310918894.1.
+
+- *Zhang Jing*, Teng Qihao, Li Hong-an.
+  "Sensing Region Selection Method and System for Fully Mechanized Coal-Mine Working Faces Based on Reinforcement Learning."
+  Chinese invention patent application, No. 202410871897.9.
+
+- *Zhang Jing*, Zha Dou, Li Hong-an.
+  "Methane Concentration Field Sensing Method and System Based on Support Vector Regression Kriging Interpolation."
+  Chinese invention patent application, No. 202410872043.2.
+
+== Contact
+
+Email: zhangjing21@xust.edu.cn
+
+School of Computer Science and Technology  
+Xi'an University of Science and Technology  
+Xi'an, Shaanxi, China
