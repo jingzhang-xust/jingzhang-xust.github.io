@@ -2,23 +2,62 @@
 
 = Publications
 
-For the most up-to-date list, see my [https://scholar.google.com/ Google Scholar] profile.
+Below is a selected list of my publications, mainly focusing on IoT sensing, mobile crowdsensing, intelligent sensing, and AI-enabled industrial applications.
 
-== Journal Papers
+== Selected Journal Papers
 
-- *Paper Title.* *YOUR NAME*, Coauthor A, Coauthor B. /Journal Name/, vol. X, no. X, pp. XX--XX, 2026. [https://example.com Paper] [https://github.com/ Code]
+1. *Jing Zhang*, Lei Han, Bin Guo. 
+   "Sparse Mobile Crowdsensing for Gas Monitoring in Coal Mine Working Face."
+   /IEEE Internet of Things Journal/, 2024, 11(22): 36633--36645.
+   *SCI Q1, Top Journal.*
 
-== Conference Papers
+2. *Jing Zhang*, Ke Huang, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li.
+   "Research on Multifeature Fusion False Review Detection Based on DynDistilBERT-BiLSTM-CNN."
+   /IEEE Internet of Things Journal/, 2024, 11(18): 30040--30053.
+   *SCI Q1, Top Journal.*
 
-- *Paper Title.* *YOUR NAME*, Coauthor A, Coauthor B. /Conference Name (CONF)/, 2026. [https://example.com Paper] [https://example.com Project] [https://github.com/ Code]
-- *Paper Title.* Coauthor A, *YOUR NAME*, Coauthor B. /Conference Name (CONF)/, 2025. [https://example.com Paper]
+3. *Jing Zhang*, Yuqi Chen, Yao Zhang, Ruonan Xu, Bin Guo.
+   "DWHA-PCMSP: Salient Object Detection Network in Coal Mine Industrial IoT."
+   /IEEE Transactions on Industrial Informatics/, 2025, 21(7): 5746--5754.
+   *SCI Q1, Top Journal.*
 
-== Preprints
+4. *Jing Zhang*, Qichen Yan, Xiaogang Zhu, Keping Yu.
+   "Smart Industrial IoT Empowered Crowd Sensing for Safety Monitoring in Coal Mine."
+   /Digital Communications and Networks/, 2023, 9(2): 296--305.
+   *ESI Highly Cited Paper, SCI Q1.*
 
-- *Preprint Title.* *YOUR NAME*, Coauthor A. arXiv preprint, 2026. [https://arxiv.org/ arXiv]
+5. *Jing Zhang*, Keping Yu, Zheng Wen, Xin Qi, Anupkumar Paul.
+   "3D Reconstruction for Motion Blurred Images Using Deep Learning-Based Intelligent Systems."
+   /Computers, Materials & Continua/, 2021, 66(2): 2087--2104.
+   *ESI Highly Cited Paper, SCI Q2.*
 
-# TODO:
-# 1. Put newest papers first.
-# 2. Bold your own name with *YOUR NAME*.
-# 3. Remove empty sections.
-# 4. You can add labels such as [Oral], [Spotlight], [Best Paper], etc. when applicable.
+6. *Jing Zhang*, Bing Li, Yao Zhang, Yuguang Xu, Hong-an Li.
+   "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer."
+   /The Journal of Supercomputing/, 2025, 81(1): 221--242.
+   *SCI Q2.*
+
+7. *Jing Zhang*, Qianqian Wang, Ding Lang, Yuguang Xu, Hong-an Li.
+   "Research on User Recruitment Algorithms Based on User Trajectory Prediction with Sparse Mobile Crowd Sensing."
+   /Mathematical Biosciences and Engineering/, 2023, 20(7): 11998--12023.
+   *SCI Q2.*
+
+8. *Jing Zhang*, Ting Fan, Ding Lang, Yuguang Xu, Hong-an Li.
+   "Intelligent Crowd Sensing Pickpocketing Group Identification Using Remote Sensing Data for Secure Smart Cities."
+   /Mathematical Biosciences and Engineering/, 2023, 20(8): 13777--13797.
+   *SCI Q2.*
+
+9. *Jing Zhang*, Xin Qi, Sanhlaing Myint, Zheng Wen.
+   "Deep-Learning-Empowered 3D Reconstruction for Dehazed Images in IoT-Enhanced Smart Cities."
+   /Computers, Materials & Continua/, 2021, 68(2): 2807--2824.
+   *SCI Q2.*
+
+== Chinese Journal Papers
+
+1. *张婧*, 查斗, 屈世甲, 许宇光.
+   "煤矿综采工作面甲烷浓度场稀疏群智感知方法研究."
+   /煤矿安全/, 2025, 56(3): 1--11.
+
+== Research Highlights
+
+- Two representative papers have been recognized as *ESI Highly Cited Papers*.
+- Research topics include mobile crowdsensing, coal-mine safety monitoring, Industrial IoT, deep learning, intelligent sensing, and 3D reconstruction.
