@@ -6,6 +6,11 @@ For an up-to-date bibliography, see my [https://dblp.org/pid/05/3499-57.html DBL
 
 == Journal Papers
 
+# =========================================================
+# Q1 Journals
+# These comments are hidden on the webpage.
+# =========================================================
+
 - *Jing Zhang*, Ke Huang, Yao Zhang, Bin Guo, Zhiwen Yu, "Detecting Fake Reviewer Groups in Dynamic Networks: An Adaptive Graph Learning Method", /IEEE Transactions on Knowledge and Data Engineering/, vol. 38, no. 5, pp. 2687--2702, 2026.
 
 - *Jing Zhang*, Yuqi Chen, Yao Zhang, Bin Guo, Ruonan Xu, "DWHA-PCMSP: Salient Object Detection Network in Coal Mine Industrial IoT", /IEEE Transactions on Industrial Informatics/, vol. 21, no. 7, pp. 5746--5754, 2025.
@@ -16,15 +21,23 @@ For an up-to-date bibliography, see my [https://dblp.org/pid/05/3499-57.html DBL
 
 - *Jing Zhang*, Lei Han, Bin Guo, "Sparse Mobile Crowdsensing for Gas Monitoring in Coal Mine Working Face", /IEEE Internet of Things Journal/, vol. 11, no. 22, pp. 36633--36645, 2024.
 
-- *Jing Zhang*, Ke Huang, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li, "Research on Multifeature Fusion False Review Detection Based on DynDistilBERT-BiLSTM-CNN", /IEEE Internet of Things Journal/, vol. 11, no. 18, pp. 30040--30053, 2024.
+- *Jing Zhang*, Ke Huang, Ding Lang, Yuguang Xu, Hong-An Li, Xuewen Li, "Research on Multifeature Fusion False Review Detection Based on DynDistilBERT-BiLSTM-CNN", /IEEE Internet of Things Journal/, vol. 11, no. 18, pp. 30040--30053, 2024.
 
 - *Jing Zhang*, Qichen Yan, Xiaogang Zhu, Keping Yu, "Smart Industrial IoT Empowered Crowd Sensing for Safety Monitoring in Coal Mine", /Digital Communications and Networks/, vol. 9, no. 2, pp. 296--305, 2023.
 
 - Xinglin Shang, Liang Tan, Keping Yu, *Jing Zhang*, Kuljeet Kaur, Mohammad Mehedi Hassan, "Newton-Interpolation-Based zk-SNARK for Artificial Internet of Things", /Ad Hoc Networks/, vol. 123, 102656, 2021.
 
+- Hong-An Li, Min Zhang, Dufeng Chen, *Jing Zhang*, Meng Yang, Zhanli Li, "Image Color Rendering Based on Hinge-Cross-Entropy GAN in Internet of Medical Things", /Computer Modeling in Engineering & Sciences/, vol. 135, no. 1, pp. 779--794, 2023.
+
+
+# =========================================================
+# Q2 Journals
+# These comments are hidden on the webpage.
+# =========================================================
+
 - *Jing Zhang*, Hao Zhou, Kunyu Liu, Yuguang Xu, "ED-Swin Transformer: A Cassava Disease Classification Model Integrated with UAV Images", /Sensors/, vol. 25, no. 8, 2432, 2025.
 
-- *Jing Zhang*, Bing Li, Yao Zhang, Yuguang Xu, Hongan Li, "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer", /The Journal of Supercomputing/, vol. 81, article 221, 2025.
+- *Jing Zhang*, Bing Li, Yao Zhang, Yuguang Xu, Hong-An Li, "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer", /The Journal of Supercomputing/, vol. 81, article 221, 2025.
 
 - *Jing Zhang*, Dan Li, Qiaozhi Hua, Xin Qi, Zheng Wen, San Hlaing Myint, "3D Remote Healthcare for Noisy CT Images in the Internet of Things Using Edge Computing", /IEEE Access/, vol. 9, pp. 15170--15180, 2021.
 
@@ -34,10 +47,4 @@ For an up-to-date bibliography, see my [https://dblp.org/pid/05/3499-57.html DBL
 
 - Yu Sun, Zhanli Li, Xuewen Li, *Jing Zhang*, "Classifier Selection and Ensemble Model for Multi-class Imbalance Learning in Education Grants Prediction", /Applied Artificial Intelligence/, vol. 35, no. 4, pp. 290--303, 2021.
 
-- Hong-an Li, Diao Wang, *Jing Zhang*, Zhanli Li, Tian Ma, "Image Super-Resolution Reconstruction Based on Multi-Scale Dual-Attention", /Connection Science/, vol. 35, no. 1, article 2182487, 2023.
-
-- Hong-an Li, Min Zhang, Dufeng Chen, *Jing Zhang*, Meng Yang, Zhanli Li, "Image Color Rendering Based on Hinge-Cross-Entropy GAN in Internet of Medical Things", /Computer Modeling in Engineering & Sciences/, vol. 135, no. 1, pp. 779--794, 2023.
-
-- *Jing Zhang*, Ting Fan, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li, "Intelligent Crowd Sensing Pickpocketing Group Identification Using Remote Sensing Data for Secure Smart Cities", /Mathematical Biosciences and Engineering/, vol. 20, no. 8, pp. 13777--13797, 2023.
-
-- *Jing Zhang*, Qianqian Wang, Ding Lang, Yuguang Xu, Hong-an Li, Xuewen Li, "Research on User Recruitment Algorithms Based on User Trajectory Prediction with Sparse Mobile Crowd Sensing", /Mathematical Biosciences and Engineering/, vol. 20, no. 7, pp. 11998--12023, 2023.
+- Hong-An Li, Diao Wang, *Jing Zhang*, Zhanli Li, Tian Ma, "Image Super-Resolution Reconstruction Based on Multi-Scale Dual-Attention", /Connection Science/, vol. 35, no. 1, article 2182487, 2023.
