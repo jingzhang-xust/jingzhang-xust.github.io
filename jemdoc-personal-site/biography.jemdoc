@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{biography.html}
+
+= Biography
+
+== Education
+
+- *20XX--Present* — M.S. / Ph.D. in XXX, School of XXX, XXX University. Advisor: Prof. XXX.
+- *20XX--20XX* — B.Eng. / B.Sc. in XXX, XXX University.
+
+== Research Experience
+
+- *20XX--Present* — Research Assistant, XXX Lab, XXX University. Briefly describe your research topic and responsibilities.
+- *20XX--20XX* — Research Intern, XXX Lab / Company. Briefly describe what you worked on.
+
+== Awards and Honors
+
+- *2026* — Scholarship / Competition Award / Outstanding Student Award.
+- *2025* — Scholarship / Competition Award.
+
+== Academic Service
+
+- Reviewer / volunteer / student organizer information, if applicable.
+- Remove this section if it does not yet apply to you.
+
+== Skills
+
+- Programming: Python, C/C++, MATLAB, etc.
+- Frameworks: PyTorch, TensorFlow, ROS, etc.
+- Languages: Chinese (native), English (working proficiency), etc.
+
+# TODO: Keep this page factual. Do not include sensitive personal information such as ID numbers, home address, or private phone number.
