@@ -476,3 +476,20 @@ h2::after {
 #footer {
   display: none !important;
 }
+
+/* =========================================================
+   Sticky sidebar
+   ========================================================= */
+
+@media (min-width: 761px) {
+
+  .menu-sticky {
+    position: sticky;
+    top: 24px;
+
+    max-height: calc(100vh - 48px);
+    overflow-y: auto;
+  }
+
+}
+
