@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{index.html}
+
+= YOUR NAME
+
+~~~
+{}{img_left}{assets/profile.svg}{YOUR NAME}{180px}{}{}
+*Master / Ph.D. Student*
+School of XXX, XXX University
+
+Research interests: Computer Vision, Machine Learning, Robotics
+
+Email: your.name@university.edu
+
+[https://scholar.google.com/ Google Scholar] | [https://github.com/YOUR_USERNAME GitHub] | [https://orcid.org/ YOUR ORCID]
+~~~
+
+== About Me
+
+I am a Master / Ph.D. student at XXX University. My research focuses on *your primary research topic*. I am particularly interested in problems related to machine learning, computer vision, robotics, multimodal learning, or your own research area.
+
+Before joining XXX University, I received my B.Eng. / B.Sc. degree from XXX University in 20XX.
+
+# TODO: Replace the paragraph above with a concise 3--5 sentence academic biography.
+
+== Research Interests
+
+- Computer Vision
+- Machine Learning
+- Robotics / Autonomous Systems
+- Multimodal Learning
+
+# TODO: Keep only 3--5 research directions that truly describe your work.
+
+== News
+
+- *2026.08* — Started building my academic homepage.
+- *2026.06* — One paper / project milestone goes here.
+- *2026.03* — Scholarship, award, internship, admission, or other update.
+
+# TODO: Put newest items first. Remove this section if you do not have meaningful updates yet.
+
+== Selected Publications
+
+- *Your Paper Title.* *YOUR NAME*, Coauthor A, Coauthor B. /Conference or Journal/, 2026. [https://example.com Paper] [https://github.com/ Code]
+- *Another Paper Title.* Coauthor A, *YOUR NAME*, Coauthor B. /Conference or Journal/, 2025. [https://example.com Project]
+
+[publications.html Full publication list]
+
+== Contact
+
+Email: your.name@university.edu
+
+Office / Lab: Room XXX, School of XXX, XXX University
+
+# TODO: After you add files/CV.pdf, you may add a link such as [files/CV.pdf Curriculum Vitae].

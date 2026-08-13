@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{publications.html}
+
+= Publications
+
+For the most up-to-date list, see my [https://scholar.google.com/ Google Scholar] profile.
+
+== Journal Papers
+
+- *Paper Title.* *YOUR NAME*, Coauthor A, Coauthor B. /Journal Name/, vol. X, no. X, pp. XX--XX, 2026. [https://example.com Paper] [https://github.com/ Code]
+
+== Conference Papers
+
+- *Paper Title.* *YOUR NAME*, Coauthor A, Coauthor B. /Conference Name (CONF)/, 2026. [https://example.com Paper] [https://example.com Project] [https://github.com/ Code]
+- *Paper Title.* Coauthor A, *YOUR NAME*, Coauthor B. /Conference Name (CONF)/, 2025. [https://example.com Paper]
+
+== Preprints
+
+- *Preprint Title.* *YOUR NAME*, Coauthor A. arXiv preprint, 2026. [https://arxiv.org/ arXiv]
+
+# TODO:
+# 1. Put newest papers first.
+# 2. Bold your own name with *YOUR NAME*.
+# 3. Remove empty sections.
+# 4. You can add labels such as [Oral], [Spotlight], [Best Paper], etc. when applicable.
