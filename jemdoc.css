@@ -1,6 +1,273 @@
 /* =========================================================
-   Academic homepage improvements
+   Global style
    ========================================================= */
+
+:root {
+  --accent: #285f8f;
+  --accent-dark: #173f63;
+  --text: #202932;
+  --muted: #667788;
+  --line: #dce4eb;
+
+  --sidebar-bg-1: #f7f9fc;
+  --sidebar-bg-2: #eef4f8;
+  --sidebar-hover: #ffffff;
+
+  --page-bg: #ffffff;
+}
+
+html {
+  background: var(--page-bg);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  color: var(--text);
+  background: var(--page-bg);
+
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    "PingFang SC",
+    "Microsoft YaHei",
+    sans-serif;
+
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-dark);
+}
+
+
+/* =========================================================
+   Main page structure
+   ========================================================= */
+
+#tlayout {
+  width: 100%;
+  max-width: 1380px;
+  margin: 0 auto;
+
+  border: none;
+  border-collapse: separate;
+  border-spacing: 0;
+
+  background: #ffffff;
+}
+
+
+/* =========================================================
+   Academic sidebar
+   ========================================================= */
+
+#layout-menu {
+  width: 220px;
+  min-width: 220px;
+
+  padding: 38px 24px 50px;
+
+  vertical-align: top;
+
+  background:
+    linear-gradient(
+      180deg,
+      var(--sidebar-bg-1) 0%,
+      var(--sidebar-bg-2) 100%
+    );
+
+  border-right: 1px solid var(--line);
+
+  box-shadow:
+    8px 0 25px rgba(30, 55, 80, 0.035);
+}
+
+
+/* Section titles in sidebar */
+.menu-category {
+  margin: 28px 10px 10px;
+
+  color: #8795a3;
+
+  font-size: 0.72rem;
+  font-weight: 700;
+
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+
+/* Name / first category */
+.menu-category:first-child {
+  margin: 0 8px 22px;
+  padding-bottom: 18px;
+
+  color: #172b3d;
+
+  font-size: 1.32rem;
+  font-weight: 750;
+
+  text-transform: none;
+  letter-spacing: -0.025em;
+
+  border-bottom: 1px solid #dce4eb;
+}
+
+
+/* Individual navigation row */
+.menu-item {
+  margin: 5px 0;
+}
+
+
+/* Navigation links */
+.menu-item a {
+  display: flex;
+  align-items: center;
+
+  padding: 9px 12px;
+
+  color: #536474;
+
+  font-size: 0.95rem;
+  font-weight: 500;
+
+  border-radius: 9px;
+
+  transition:
+    background 0.18s ease,
+    color 0.18s ease,
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+
+/* Small dot before every menu entry */
+.menu-item a::before {
+  content: "";
+
+  width: 6px;
+  height: 6px;
+
+  margin-right: 11px;
+
+  flex: 0 0 6px;
+
+  border-radius: 50%;
+
+  background: #bdc9d3;
+
+  transition:
+    background 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+
+/* Hover */
+.menu-item a:hover {
+  color: var(--accent-dark);
+
+  text-decoration: none;
+
+  background: rgba(255, 255, 255, 0.82);
+
+  transform: translateX(3px);
+
+  box-shadow:
+    0 3px 12px rgba(25, 60, 90, 0.055);
+}
+
+
+.menu-item a:hover::before {
+  background: var(--accent);
+}
+
+
+/* Current page */
+.menu-item a.current {
+  color: var(--accent-dark);
+
+  font-weight: 700;
+
+  background: #ffffff;
+
+  box-shadow:
+    0 4px 15px rgba(25, 60, 90, 0.08);
+}
+
+
+.menu-item a.current::before {
+  background: var(--accent);
+
+  box-shadow:
+    0 0 0 4px rgba(40, 95, 143, 0.10);
+}
+
+
+/* =========================================================
+   Mobile navigation
+   ========================================================= */
+
+@media (max-width: 760px) {
+
+  #tlayout,
+  #tlayout tbody,
+  #tlayout tr,
+  #tlayout td {
+    display: block;
+    width: auto;
+  }
+
+  #layout-menu {
+    width: auto;
+    min-width: 0;
+
+    padding: 20px 20px 22px;
+
+    border-right: none;
+    border-bottom: 1px solid var(--line);
+
+    box-shadow: none;
+  }
+
+  .menu-category:first-child {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+  }
+
+  .menu-category {
+    margin-top: 18px;
+  }
+
+  .menu-item {
+    display: inline-block;
+    margin-right: 4px;
+  }
+
+  .menu-item a {
+    padding: 7px 10px;
+  }
+
+  .menu-item a::before {
+    display: none;
+  }
+
+  .menu-item a:hover {
+    transform: none;
+  }
+}
 
 /* Limit the total width on large screens */
 #tlayout {
