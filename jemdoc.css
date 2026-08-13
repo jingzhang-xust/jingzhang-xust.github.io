@@ -471,3 +471,8 @@ h2::after {
       0 8px 30px rgba(25, 45, 70, 0.055);
   }
 }
+
+/* Hide jemdoc generated footer */
+#footer {
+  display: none !important;
+}
