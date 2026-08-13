@@ -465,7 +465,7 @@ h2::after {
     border: 1px solid #e3e8ed;
     border-radius: 16px;
 
-    overflow: hidden;
+    overflow: visible;
 
     box-shadow:
       0 8px 30px rgba(25, 45, 70, 0.055);
