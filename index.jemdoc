@@ -1,55 +1,81 @@
 # jemdoc: menu{MENU}{index.html}
 
-= YOUR NAME
+= Jing Zhang
 
 ~~~
-{}{img_left}{assets/profile.svg}{YOUR NAME}{180px}{}{}
-*Master / Ph.D. Student*
-School of XXX, XXX University
+{}{img_left}{assets/profile.jpg}{Jing Zhang}{180px}{}{}
+*Associate Professor*
+School of Artificial Intelligence and Computer Science, Xi'an University of Science and Technology
 
-Research interests: Computer Vision, Machine Learning, Robotics
+Research interests: IoT Sensing, Artificial Intelligence, Crowd Computing
 
-Email: your.name@university.edu
+Email: zhangjing21@xust.edu.cn
 
-[https://scholar.google.com/ Google Scholar] | [https://github.com/YOUR_USERNAME GitHub] | [https://orcid.org/ YOUR ORCID]
+[https://github.com/jingzhang-xust GitHub]
 ~~~
 
 == About Me
 
-I am a Master / Ph.D. student at XXX University. My research focuses on *your primary research topic*. I am particularly interested in problems related to machine learning, computer vision, robotics, multimodal learning, or your own research area.
+I am currently an Associate Professor at the School of Computer Science and Technology, Xi'an University of Science and Technology (XUST).
 
-Before joining XXX University, I received my B.Eng. / B.Sc. degree from XXX University in 20XX.
+I received my dual bachelor's degrees in Mathematics and Applied Mathematics and Computer Application Technology from Northwest University in 2010, my master's degree in Computer Application Technology in 2013, and my Ph.D. degree in Computer Application Technology in 2018.
 
-# TODO: Replace the paragraph above with a concise 3--5 sentence academic biography.
+I joined Xi'an University of Science and Technology in June 2018 and was promoted to Associate Professor in January 2023.
+
+My research interests mainly include IoT sensing, artificial intelligence, and crowd computing.
 
 == Research Interests
 
-- Computer Vision
-- Machine Learning
-- Robotics / Autonomous Systems
-- Multimodal Learning
+- IoT Sensing
+- Artificial Intelligence
+- Crowd Computing
+- Intelligent Sensing and Data Analytics
 
-# TODO: Keep only 3--5 research directions that truly describe your work.
+== Research
 
-== News
+I have led or participated in more than ten government-funded research projects, including projects supported by the National Natural Science Foundation of China, the China Postdoctoral Science Foundation, the Department of Science and Technology of Shaanxi Province, and the Education Department of Shaanxi Province.
 
-- *2026.08* — Started building my academic homepage.
-- *2026.06* — One paper / project milestone goes here.
-- *2026.03* — Scholarship, award, internship, admission, or other update.
+I have also participated in more than ten industry-funded research projects related to coal mines and research institutes.
 
-# TODO: Put newest items first. Remove this section if you do not have meaningful updates yet.
+== Publications
 
-== Selected Publications
+I have published more than 30 SCI-indexed papers in international journals, including /IEEE Transactions on Industrial Informatics/ and /IEEE Internet of Things Journal/. Two of these papers have been recognized as ESI Highly Cited Papers.
 
-- *Your Paper Title.* *YOUR NAME*, Coauthor A, Coauthor B. /Conference or Journal/, 2026. [https://example.com Paper] [https://github.com/ Code]
-- *Another Paper Title.* Coauthor A, *YOUR NAME*, Coauthor B. /Conference or Journal/, 2025. [https://example.com Project]
+My research has also resulted in six accepted or granted invention patents.
 
-[publications.html Full publication list]
+[publications.html Publications]
+
+== Awards
+
+- *2024* — Second Prize of Science and Technology, China National Coal Association, for research on major coal-mine disaster risk monitoring, early warning, and collaborative safety management.
+- *2023* — Third Prize of Science and Technology of Shaanxi Higher Education Institutions, for research on data-driven automatic image rendering based on deep neural networks.
+
+== Academic Service
+
+- Executive Committee Member, CCF Technical Committee on Internet of Things
+- Executive Committee Member, CCF Technical Committee on Pervasive Computing
+
+== Teaching
+
+=== Undergraduate Courses
+
+- Principles of Big Data Technology
+- Linux Operating Systems
+- Digital Image Processing
+- Computer Graphics
+- C Programming
+
+=== Graduate Courses
+
+- Software Testing
+- Scientific Computing Visualization
 
 == Contact
 
-Email: your.name@university.edu
+Email: zhangjing21@xust.edu.cn
 
-Office / Lab: Room XXX, School of XXX, XXX University
+School of Computer Science and Technology  
+Xi'an University of Science and Technology  
+Xi'an, Shaanxi, China
 
-# TODO: After you add files/CV.pdf, you may add a link such as [files/CV.pdf Curriculum Vitae].
+[https://jsjxy.xust.edu.cn/info/1103/1960.htm Official Faculty Profile]
