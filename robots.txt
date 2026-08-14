@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jingzhang-xust.github.io/sitemap.xml

@@ -5,7 +5,7 @@ import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parent
-PAGES = ["index.jemdoc", "publications.jemdoc", "biography.jemdoc"]
+PAGES = ["index.jemdoc", "publications.jemdoc", "projects.jemdoc", "biography.jemdoc"]
 
 CANDIDATES = [
     ROOT / "vendor" / "jemdoc_mathjax" / "jemdoc",
@@ -39,14 +39,24 @@ def main():
         shutil.rmtree(site)
     site.mkdir()
 
+    # Copy generated HTML files.
     for html in ROOT.glob("*.html"):
         shutil.copy2(html, site / html.name)
+
+    # Copy stylesheet.
     shutil.copy2(ROOT / "jemdoc.css", site / "jemdoc.css")
 
+    # Copy static directories.
     for dirname in ["assets", "files"]:
         src = ROOT / dirname
         if src.exists():
             shutil.copytree(src, site / dirname)
+
+    # Copy SEO / crawler files to the published site root.
+    for filename in ["sitemap.xml", "robots.txt"]:
+        src = ROOT / filename
+        if src.exists():
+            shutil.copy2(src, site / filename)
 
     print()
     print("Build complete:", site)
