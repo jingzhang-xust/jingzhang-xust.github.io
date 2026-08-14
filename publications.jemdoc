@@ -2,36 +2,38 @@
 
 = Publications
 
-For an up-to-date bibliography, please see my Google Scholar profile.
+For an up-to-date bibliography, please see my [https://scholar.google.com/citations?user=cYqMvG4AAAAJ Google Scholar] profile.
 
 == Journal Papers
 
-- *Jing Zhang*, K Yu, Z Wen, X Qi, AK Paul, "3D Reconstruction for Motion Blurred Images Using Deep Learning-Based Intelligent Systems", /Computers, Materials and Continua/, vol. 66, no. 2, pp. 2087--2104, 2020.
-
-- *Jing Zhang*, Q Yan, X Zhu, K Yu, "Smart Industrial IoT Empowered Crowd Sensing for Safety Monitoring in Coal Mine", /Digital Communications and Networks/, vol. 9, no. 2, pp. 296--305, 2023.
-
-- *Jing Zhang*, L Han, B Guo, "Sparse Mobile Crowdsensing for Gas Monitoring in Coal Mine Working Face", /IEEE Internet of Things Journal/, vol. 11, no. 22, pp. 36633--36645, 2024.
-
-- X Shang, L Tan, K Yu, *Jing Zhang*, K Kaur, MM Hassan, "Newton-Interpolation-Based zk-SNARK for Artificial Internet of Things", /Ad Hoc Networks/, vol. 123, article 102656, 2021.
-
-- *Jing Zhang*, LR Gong, K Yu, X Qi, Z Wen, Q Hua, SH Myint, "3D Reconstruction for Super-Resolution CT Images in the Internet of Health Things Using Deep Learning", /IEEE Access/, vol. 8, pp. 121513--121525, 2020.
-
-- *Jing Zhang*, D Li, Q Hua, X Qi, Z Wen, SH Myint, "3D Remote Healthcare for Noisy CT Images in the Internet of Things Using Edge Computing", /IEEE Access/, vol. 9, pp. 15170--15180, 2021.
-
-- H Li, D Wang, *Jing Zhang*, Z Li, T Ma, "Image Super-Resolution Reconstruction Based on Multi-Scale Dual-Attention", /Connection Science/, vol. 35, no. 1, article 2182487, 2023.
-
-- *Jing Zhang*, H Zhou, K Liu, Y Xu, "ED-Swin Transformer: A Cassava Disease Classification Model Integrated with UAV Images", /Sensors/, vol. 25, no. 8, article 2432, 2025.
-
-- *Jing Zhang*, X Qi, Z Wen, "Deep-Learning-Empowered 3D Reconstruction for Dehazed Images in IoT-Enhanced Smart Cities", /Computers, Materials and Continua/, vol. 68, no. 2, pp. 2807--2824, 2021.
-
-- *Jing Zhang*, K Huang, D Lang, Y Xu, HA Li, X Li, "Research on Multifeature Fusion False Review Detection Based on DynDistilBERT-BiLSTM-CNN", /IEEE Internet of Things Journal/, vol. 11, no. 18, pp. 30040--30053, 2024.
-
-- H Li, M Zhang, D Chen, *Jing Zhang*, M Yang, Z Li, "Image Color Rendering Based on Hinge-Cross-Entropy GAN in Internet of Medical Things", /CMES - Computer Modeling in Engineering and Sciences/, vol. 135, no. 1, pp. 779--794, 2022.
-
-- *Jing Zhang*, B Li, Y Zhang, Y Xu, H Li, "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer", /The Journal of Supercomputing/, vol. 81, no. 1, article 221, 2025.
+- *Jing Zhang*, K Huang, Y Zhang, B Guo, Z Yu, "Detecting Fake Reviewer Groups in Dynamic Networks: An Adaptive Graph Learning Method", /IEEE Transactions on Knowledge and Data Engineering/, 2026.
 
 - *Jing Zhang*, Y Chen, Y Zhang, B Guo, R Xu, "DWHA-PCMSP: Salient Object Detection Network in Coal Mine Industrial IoT", /IEEE Transactions on Industrial Informatics/, vol. 21, no. 7, pp. 5746--5754, 2025.
 
-- *Jing Zhang*, K Huang, Y Zhang, B Guo, Z Yu, "Detecting Fake Reviewer Groups in Dynamic Networks: An Adaptive Graph Learning Method", /IEEE Transactions on Knowledge and Data Engineering/, 2026.
-
 - *Jing Zhang*, X Li, B Li, Y Xu, J Su, "CEA-RPCMLP-HGNN: Point of Interest Recommendation Method for City Tourism Crowd", /IEEE Internet of Things Journal/, 2026.
+
+- *Jing Zhang*, L Han, B Guo, "Sparse Mobile Crowdsensing for Gas Monitoring in Coal Mine Working Face", /IEEE Internet of Things Journal/, vol. 11, no. 22, pp. 36633--36645, 2024.
+
+- *Jing Zhang*, K Huang, D Lang, Y Xu, HA Li, X Li, "Research on Multifeature Fusion False Review Detection Based on DynDistilBERT-BiLSTM-CNN", /IEEE Internet of Things Journal/, vol. 11, no. 18, pp. 30040--30053, 2024.
+
+- *Jing Zhang*, Q Yan, X Zhu, K Yu, "Smart Industrial IoT Empowered Crowd Sensing for Safety Monitoring in Coal Mine", /Digital Communications and Networks/, vol. 9, no. 2, pp. 296--305, 2023.
+
+- X Shang, L Tan, K Yu, *Jing Zhang*, K Kaur, MM Hassan, "Newton-Interpolation-Based zk-SNARK for Artificial Internet of Things", /Ad Hoc Networks/, vol. 123, article 102656, 2021.
+
+- *Jing Zhang*, H Zhou, K Liu, Y Xu, "ED-Swin Transformer: A Cassava Disease Classification Model Integrated with UAV Images", /Sensors/, vol. 25, no. 8, article 2432, 2025.
+
+- *Jing Zhang*, B Li, Y Zhang, Y Xu, H Li, "Research on the Recommendation Method of Urban Location Point of Interest Based on DTCN-EFFN-Transformer", /The Journal of Supercomputing/, vol. 81, no. 1, article 221, 2025.
+
+- *Jing Zhang*, D Li, Q Hua, X Qi, Z Wen, SH Myint, "3D Remote Healthcare for Noisy CT Images in the Internet of Things Using Edge Computing", /IEEE Access/, vol. 9, pp. 15170--15180, 2021.
+
+- *Jing Zhang*, LR Gong, K Yu, X Qi, Z Wen, Q Hua, SH Myint, "3D Reconstruction for Super-Resolution CT Images in the Internet of Health Things Using Deep Learning", /IEEE Access/, vol. 8, pp. 121513--121525, 2020.
+
+- HA Li, M Zhang, K Yu, *Jing Zhang*, Q Hua, B Wu, Z Yu, "Combined Forecasting Model of Cloud Computing Resource Load for Energy-Efficient IoT System", /IEEE Access/, vol. 7, pp. 149542--149553, 2019.
+
+- H Li, D Wang, *Jing Zhang*, Z Li, T Ma, "Image Super-Resolution Reconstruction Based on Multi-Scale Dual-Attention", /Connection Science/, vol. 35, no. 1, article 2182487, 2023.
+
+- H Li, M Zhang, D Chen, *Jing Zhang*, M Yang, Z Li, "Image Color Rendering Based on Hinge-Cross-Entropy GAN in Internet of Medical Things", /CMES - Computer Modeling in Engineering and Sciences/, vol. 135, no. 1, pp. 779--794, 2022.
+
+- *Jing Zhang*, K Yu, Z Wen, X Qi, AK Paul, "3D Reconstruction for Motion Blurred Images Using Deep Learning-Based Intelligent Systems", /Computers, Materials and Continua/, vol. 66, no. 2, pp. 2087--2104, 2020.
+
+- *Jing Zhang*, X Qi, Z Wen, "Deep-Learning-Empowered 3D Reconstruction for Dehazed Images in IoT-Enhanced Smart Cities", /Computers, Materials and Continua/, vol. 68, no. 2, pp. 2807--2824, 2021.
